@@ -1,28 +1,82 @@
-# 💫 About Me:
-<br>💻 Computer Science student passionate about building AI-driven solutions  <br>⚙️ Skilled in Python, FastAPI, backend development, and problem solving  <br>📚 Currently learning AI systems, system design, and data structures  <br>🎖 NCC Senior Under Officer (SUO) demonstrating strong discipline and leadership  <br>🏆 District Topper in Class 12 and HackCrux Hackathon participant (LNMIIT Jaipur)  <br>🎯 Driven to build impactful technology and continuously improve my skills
+<!-- HEADER -->
+<h1 align="center">Hi 👋, I'm Uday Kanojiya</h1>
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/uday.uday888) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/uday-kanojiya-40139a290) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:udaykanojiya91@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=udaykanojiya&show_icons=true&theme=dark&cache_seconds=86400)
-
-![Streak](https://streak-stats.demolab.com?user=udaykanojiya&theme=dark&cache_seconds=86400)
-
-![Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=udaykanojiya&layout=compact&theme=dark&cache_seconds=86400)
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=udaykanojiya&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+Developer+%7C+Backend+Engineer;FastAPI+%7C+Python+%7C+System+Design;Building+Impactful+Tech+🚀" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=udaykanojiya&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧠 About Me
+
+Name: Uday Kanojiya  
+Role: AI Developer & Backend Engineer  
+Focus: Building scalable AI-driven systems  
+
+- 💻 Computer Science student passionate about building AI-driven solutions  
+- ⚙️ Skilled in Python, FastAPI, backend development, and problem solving  
+- 📚 Currently learning AI systems, system design, and data structures  
+- 🎖 NCC Senior Under Officer (SUO) — discipline & leadership  
+- 🏆 District Topper (Class 12) | HackCrux Hackathon @ LNMIIT Jaipur  
+- 🎯 Focused on building impactful technology & continuous growth  
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://instagram.com/uday.uday888">
+    <img src="https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/uday-kanojiya-40139a290">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:udaykanojiya91@gmail.com">
+    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+## ⚙️ Tech Arsenal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,python,html,css,tailwind,vite,fastapi,express,mongodb,mysql,firebase,tensorflow,git,github,figma,vscode,opencv&perline=10&size=75" />
+</p>
+
+<p align="center">
+  <b>+ Pandas • NumPy • Scikit-Learn • Streamlit • JWT • Chart.js • Canva • Lightroom</b>
+</p>
+
+---
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=udaykanojiya&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=udaykanojiya&theme=tokyonight&hide_border=true&cache_seconds=86400" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=udaykanojiya&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="150"/>
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=udaykanojiya&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## ✍️ Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
+---
+
+<p align="center">
+  ⚡ <i>"Code. Lead. Build. Repeat."</i> ⚡
+</p>
