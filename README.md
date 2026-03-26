@@ -51,12 +51,19 @@ Focus: Building scalable AI-driven systems
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=udaykanojiya&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="180"/>
-  <img src="https://streak-stats.demolab.com?user=udaykanojiya&theme=tokyonight&hide_border=true&cache_seconds=86400" height="180"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=udaykanojiya&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" width="65%"/>
 </p>
 
+
+
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=udaykanojiya&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=udaykanojiya&theme=tokyonight&hide_border=true&cache_seconds=86400" width="80%"/>
+</p>
+
+
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=udaykanojiya&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" width="45%"/>
 </p>
 
 ---
